@@ -1,0 +1,423 @@
+,name,position,team,value
+0,Patrick Mahomes,QB,KC,997.4122
+1,Josh Allen,QB,BUF,976.2788
+2,Justin Herbert,QB,LAC,942.5806
+3,Joe Burrow,QB,CIN,887.0771
+4,Lamar Jackson,QB,BAL,881.99
+5,Kyler Murray,QB,ARI,875.9104
+6,Jonathan Taylor,RB,IND,843.0278
+7,Justin Jefferson,WR,MIN,838.0523
+8,Ja'Marr Chase,WR,CIN,836.6673
+9,Dak Prescott,QB,DAL,808.2013
+10,CeeDee Lamb,WR,DAL,699.8141
+11,Cooper Kupp,WR,LAR,689.6798
+12,Kyle Pitts,TE,ATL,688.8077
+13,Najee Harris,RB,PIT,686.5125
+14,Russell Wilson,QB,DEN,672.5318
+15,D'Andre Swift,RB,DET,668.0999
+16,Christian McCaffrey,RB,CAR,654.4275
+17,2022.1.01,0,0,625.0
+18,Trevor Lawrence,QB,JAC,620.3932
+19,Jalen Hurts,QB,PHI,618.2561
+20,2023.1.early,0,0,604.0949
+21,Trey Lance,QB,SF,590.8225
+22,Deebo Samuel,WR,SF,584.6554
+23,Matthew Stafford,QB,LAR,578.6414
+24,Javonte Williams,RB,DEN,558.7598
+25,2022.1.02,0,0,558.2192
+26,AJ Brown,WR,PHI,554.7343
+27,Davante Adams,WR,LV,547.1511
+28,Stefon Diggs,WR,BUF,509.6115
+29,Saquon Barkley,RB,NYG,498.8085
+30,Breece Hall,RB,NYJ,500.3209
+31,2022.1.03,0,0,498.5738
+32,Justin Fields,QB,CHI,500.6431
+33,Jaylen Waddle,WR,MIA,494.1371
+34,DK Metcalf,WR,SEA,487.6906
+35,Aaron Rodgers,QB,GB,487.3507
+36,Tyreek Hill,WR,MIA,481.0888
+37,Deshaun Watson,QB,CLE,477.8236
+38,Austin Ekeler,RB,LAC,469.8073
+39,Dalvin Cook,RB,MIN,473.3829
+40,2022.1.04,0,0,445.3015
+41,Derrick Henry,RB,TEN,443.4622
+42,Mark Andrews,TE,BAL,430.9826
+43,Tee Higgins,WR,CIN,430.0351
+44,Nick Chubb,RB,CLE,424.1699
+45,Tua Tagovailoa,QB,MIA,417.7624
+46,2022.1.05,0,0,397.7214
+47,Joe Mixon,RB,CIN,389.1898
+48,Travis Kelce,TE,KC,384.8796
+49,2023.1,0,0,384.2454
+50,2023.1.mid,0,0,384.2454
+51,DJ Moore,WR,CAR,375.0053
+52,Mac Jones,QB,NE,373.5641
+53,Derek Carr,QB,LV,368.7943
+54,Alvin Kamara,RB,NO,361.3622
+55,George Kittle,TE,SF,355.2118
+56,2022.1.06,0,0,355.2251
+57,Kirk Cousins,QB,MIN,343.3914
+58,Chris Godwin,WR,TB,337.2799
+59,Antonio Gibson,RB,WAS,339.541
+60,2022.1,0,0,338.2442
+61,JK Dobbins,RB,BAL,326.5847
+62,Diontae Johnson,WR,PIT,324.8262
+63,Zach Wilson,QB,NYJ,314.7044
+64,2022.1.07,0,0,312.7581
+65,Travis Etienne,RB,JAC,308.0858
+66,Aaron Jones,RB,GB,307.5158
+67,Cam Akers,RB,LAR,299.1157
+68,Terry McLaurin,WR,WAS,296.2168
+69,2022.1.08,0,0,287.2722
+70,Mike Evans,WR,TB,287.9446
+71,Keenan Allen,WR,LAC,282.8239
+72,Michael Pittman,WR,IND,271.7897
+73,2023.1.late,0,0,265.0596
+74,2022.1.09,0,0,263.863
+75,Drake London,WR,ATL,262.2304
+76,Marquise Brown,WR,ARI,254.6923
+77,Elijah Moore,WR,NYJ,254.3244
+78,Rashod Bateman,WR,BAL,253.9495
+79,Amari Cooper,WR,CLE,250.8468
+80,Kenneth Walker,RB,SEA,250.2694
+81,2022.1.10,0,0,242.3614
+82,Jerry Jeudy,WR,DEN,242.6215
+83,Treylon Burks,WR,TEN,239.9135
+84,Ryan Tannehill,QB,TEN,231.476
+85,David Montgomery,RB,CHI,230.3636
+86,2024.1,0,0,230.0061
+87,Courtland Sutton,WR,DEN,229.4279
+88,Ezekiel Elliott,RB,DAL,229.1147
+89,2022.1.11,0,0,222.6119
+90,Darren Waller,TE,LV,218.2753
+91,Tom Brady,QB,TB,212.1648
+92,Leonard Fournette,RB,TB,212.9091
+93,2022.1.12,0,0,204.4718
+94,DeVonta Smith,WR,PHI,205.8569
+95,Garrett Wilson,WR,NYJ,200.6315
+96,Josh Jacobs,RB,LV,197.6477
+97,Elijah Mitchell,RB,SF,191.7698
+98,2023.2.early,0,0,188.6615
+99,2022.2.01,0,0,187.8099
+100,JuJu Smith-Schuster,WR,KC,186.387
+101,Matt Ryan,QB,IND,187.384
+102,Clyde Edwards-Helaire,RB,KC,183.6213
+103,2022.2.02,0,0,172.5057
+104,Amon-Ra St. Brown,WR,DET,171.057
+105,James Conner,RB,ARI,169.8687
+106,TJ Hockenson,TE,DET,168.6661
+107,Jameson Williams,WR,DET,167.8771
+108,Kenny Pickett,QB,PIT,168.1922
+109,Darnell Mooney,WR,CHI,162.8441
+110,2025.1,0,0,162.3572
+111,2022.2.03,0,0,158.4486
+112,Miles Sanders,RB,PHI,154.302
+113,AJ Dillon,RB,GB,153.5712
+114,Mike Williams,WR,LAC,153.0787
+115,Allen Robinson,WR,LAR,150.6419
+116,DeAndre Hopkins,WR,ARI,148.036
+117,2022.2.04,0,0,145.537
+118,Chris Olave,WR,NO,146.8562
+119,Michael Thomas,WR,NO,144.4105
+120,Skyy Moore,WR,KC,144.2509
+121,Brandon Aiyuk,WR,SF,142.6652
+122,2023.2.mid,0,0,134.2837
+123,2023.2,0,0,134.2837
+124,2022.2.05,0,0,133.6775
+125,Brandin Cooks,WR,HOU,126.2882
+126,Carson Wentz,QB,WAS,126.0702
+127,Jared Goff,QB,DET,124.446
+128,Daniel Jones,QB,NYG,124.4016
+129,Jameis Winston,QB,NO,124.4363
+130,2022.2.06,0,0,122.7844
+131,2022.2,0,0,118.2075
+132,Dallas Goedert,TE,PHI,113.7064
+133,2022.2.07,0,0,112.779
+134,Chase Claypool,WR,PIT,112.6869
+135,Christian Watson,WR,GB,110.9738
+136,James Cook,RB,BUF,105.9947
+137,Tyler Lockett,WR,SEA,105.3794
+138,Dalton Schultz,TE,DAL,105.0016
+139,Baker Mayfield,QB,CAR,104.2151
+140,2022.2.08,0,0,103.5889
+141,Kareem Hunt,RB,CLE,102.4736
+142,Pat Freiermuth,TE,PIT,101.5677
+143,Davis Mills,QB,HOU,100.1615
+144,Adam Thielen,WR,MIN,99.1494
+145,George Pickens,WR,PIT,96.2893
+146,2023.2.late,0,0,95.5791
+147,2022.2.09,0,0,95.1477
+148,2022.2.10,0,0,87.3943
+149,Tony Pollard,RB,DAL,85.8148
+150,Damien Harris,RB,NE,85.1883
+151,Christian Kirk,WR,JAC,85.1729
+152,Jahan Dotson,WR,WAS,82.8395
+153,2024.2,0,0,80.3811
+154,2022.2.11,0,0,80.2727
+155,Noah Fant,TE,SEA,78.8256
+156,Gabriel Davis,WR,BUF,78.6538
+157,Michael Gallup,WR,DAL,76.3536
+158,Hunter Renfrow,WR,LV,76.697
+159,Kadarius Toney,WR,NYG,76.2944
+160,2022.2.12,0,0,73.7315
+161,Devin Singletary,RB,BUF,72.9479
+162,Rondale Moore,WR,ARI,71.4785
+163,James Robinson,RB,JAC,70.1005
+164,2023.3.early,0,0,68.0304
+165,2022.3.01,0,0,67.7233
+166,Mike Gesicki,TE,MIA,66.6702
+167,Rhamondre Stevenson,RB,NE,66.2558
+168,Robert Woods,WR,TEN,64.6474
+169,Chase Edmonds,RB,MIA,64.323
+170,2022.3.02,0,0,62.2047
+171,Rachaad White,RB,TB,61.3869
+172,Calvin Ridley,WR,ATL,61.5428
+173,Dawson Knox,TE,BUF,60.7903
+174,2022.3.03,0,0,57.1358
+175,2025.2,0,0,56.7396
+176,2022.3.04,0,0,52.4799
+177,Desmond Ridder,QB,ATL,52.414
+178,Hunter Henry,TE,NE,52.1923
+179,Mitchell Trubisky,QB,PIT,51.2984
+180,Tyler Boyd,WR,CIN,50.2964
+181,Rashaad Penny,RB,SEA,49.8273
+182,Marcus Mariota,QB,ATL,49.3465
+183,Malik Willis,QB,TEN,125.0
+184,2023.3,0,0,48.422
+185,2023.3.mid,0,0,48.422
+186,2022.3.05,0,0,48.2034
+187,Melvin Gordon,RB,DEN,47.0658
+188,Zach Ertz,TE,ARI,46.1673
+189,Michael Carter,RB,NYJ,45.4531
+190,Dameon Pierce,RB,HOU,45.1798
+191,Cole Kmet,TE,CHI,44.935
+192,2022.3.06,0,0,44.2754
+193,2022.3,0,0,42.625
+194,Alexander Mattison,RB,MIN,41.7957
+195,Cordarrelle Patterson,RB,ATL,41.8813
+196,DJ Chark,WR,DET,41.4747
+197,Kenny Golladay,WR,NYG,40.7086
+198,2022.3.07,0,0,40.6675
+199,Darrell Henderson,RB,LAR,40.3697
+200,Albert Okwuegbunam,TE,DEN,39.4918
+201,Jarvis Landry,WR,NO,39.5955
+202,Odell Beckham,WR,FA,39.4477
+203,Wan'Dale Robinson,WR,NYG,38.3871
+204,Jimmy Garoppolo,QB,SF,38.2013
+205,Ronald Jones,RB,KC,38.3196
+206,2022.3.08,0,0,37.3536
+207,David Bell,WR,CLE,36.1003
+208,Isaiah Spiller,RB,LAC,35.668
+209,Allen Lazard,WR,GB,35.2181
+210,Evan Engram,TE,JAC,34.9449
+211,2023.3.late,0,0,34.4654
+212,DeVante Parker,WR,NE,34.413
+213,2022.3.09,0,0,34.3098
+214,John Metchie,WR,HOU,34.0686
+215,Russell Gage,WR,TB,33.1733
+216,Irv Smith Jr,TE,MIN,33.1108
+217,Kenneth Gainwell,RB,PHI,32.203
+218,Brian Robinson,RB,WAS,32.0369
+219,Trey McBride,TE,ARI,31.0052
+220,2022.3.10,0,0,31.5139
+221,Zamir White,RB,LV,30.6796
+222,Nyheim Hines,RB,IND,30.6169
+223,Matt Corral,QB,CAR,95.0
+224,Alec Pierce,WR,IND,29.6268
+225,Jalen Tolbert,WR,DAL,28.6929
+226,2024.3,0,0,28.985
+227,2022.3.11,0,0,28.9459
+228,Jordan Love,QB,GB,28.8768
+229,Corey Davis,WR,NYJ,26.8623
+230,2022.3.12,0,0,26.5872
+231,Bryan Edwards,WR,ATL,26.5778
+232,Jakobi Meyers,WR,NE,26.5393
+233,Marquez Valdes-Scantling,WR,KC,26.0096
+234,Sam Darnold,QB,CAR,26.0227
+235,Laviska Shenault,WR,JAC,25.1552
+236,Terrace Marshall,WR,CAR,24.7349
+237,Robert Tonyan,TE,GB,24.6645
+238,2023.4.early,0,0,24.5314
+239,2022.4.01,0,0,24.4207
+240,JD McKissic,RB,WAS,23.9759
+241,David Njoku,TE,CLE,24.0789
+242,Khalil Herbert,RB,CHI,22.8556
+243,2022.4.02,0,0,22.4307
+244,Darrel Williams,RB,ARI,22.1138
+245,Myles Gaskin,RB,MIA,21.4827
+246,Gerald Everett,TE,LAC,21.0198
+247,Tyler Allgeier,RB,ATL,21.143
+248,Logan Thomas,TE,WAS,20.9662
+249,2022.4.03,0,0,20.6029
+250,2025.3,0,0,20.46
+251,Chris Carson,RB,SEA,20.0357
+252,Tyrion Davis-Price,RB,SF,20.0524
+253,Teddy Bridgewater,QB,MIA,19.4431
+254,Raheem Mostert,RB,MIA,19.2794
+255,Josh Palmer,WR,LAC,19.1305
+256,2022.4.04,0,0,18.924
+257,Sam Howell,QB,WAS,35.0
+258,Marlon Mack,RB,HOU,18.5069
+259,Jacoby Brissett,QB,CLE,18.4085
+260,Tyler Higbee,TE,LAR,17.7724
+261,2023.4.mid,0,0,17.4608
+262,2023.4,0,0,17.4608
+263,Robbie Anderson,WR,CAR,17.4363
+264,2022.4.05,0,0,17.3819
+265,Sterling Shepard,WR,NYG,17.2475
+266,Jelani Woods,TE,IND,17.1733
+267,Julio Jones,WR,FA,17.0134
+268,Cameron Brate,TE,TB,16.1733
+269,Jonnu Smith,TE,NE,16.1192
+270,2022.4.06,0,0,15.9655
+271,Jamaal Williams,RB,DET,15.9139
+272,Tim Patrick,WR,DEN,15.2682
+273,2022.4,0,0,15.3704
+274,Gus Edwards,RB,BAL,15.2999
+275,Hayden Hurst,TE,CIN,14.9481
+276,Trey Sermon,RB,SF,14.8287
+277,2022.4.07,0,0,14.6645
+278,Chuba Hubbard,RB,CAR,14.5219
+279,Curtis Samuel,WR,WAS,14.4704
+280,Austin Hooper,TE,TEN,14.1246
+281,Mark Ingram,RB,NO,14.071
+282,Mecole Hardman,WR,KC,14.1266
+283,Sony Michel,RB,MIA,13.9295
+284,KJ Osborn,WR,MIN,13.8537
+285,Parris Campbell,WR,IND,13.8672
+286,Zack Moss,RB,BUF,13.7305
+287,Kendrick Bourne,WR,NE,13.5545
+288,Nico Collins,WR,HOU,13.5004
+289,2022.4.08,0,0,13.4695
+290,Gardner Minshew,QB,PHI,13.3921
+291,Marvin Jones,WR,JAC,13.4167
+292,Van Jefferson,WR,LAR,13.1749
+293,Jalen Reagor,WR,PHI,13.1479
+294,Drew Lock,QB,SEA,13.0941
+295,2023.4.late,0,0,12.428
+296,Kenyan Drake,RB,LV,12.41
+297,2022.4.09,0,0,12.3719
+298,D'Ernest Johnson,RB,CLE,12.3063
+299,Hassan Haskins,RB,TEN,12.3511
+300,Donovan Peoples-Jones,WR,CLE,12.0061
+301,Rob Gronkowski,TE,FA,0.0
+302,2022.4.10,0,0,11.3638
+303,Geno Smith,QB,SEA,11.2881
+304,D'Onta Foreman,RB,CAR,11.1257
+305,Sammy Watkins,WR,GB,11.0558
+306,Brevin Jordan,TE,HOU,11.0643
+307,Adam Trautman,TE,NO,10.9307
+308,Velus Jones,WR,CHI,10.9304
+309,Amari Rodgers,WR,GB,10.8204
+310,Tyquan Thornton,WR,NE,10.7649
+311,2024.4,0,0,10.6691
+312,Tyler Huntley,QB,BAL,10.4847
+313,2022.4.11,0,0,10.4378
+314,Pierre Strong,RB,NE,10.4254
+315,Taylor Heinicke,QB,WAS,10.1923
+316,2023.5.early,0,0,10.0009
+317,2022.5.01,0,0,10.0
+318,2025.4,0,0,10.0
+319,2024.5,0,0,10.0
+320,2023.5,0,0,10.0
+321,2022.5,0,0,10.0
+322,2022.4.12,0,0,10.0
+323,2022.5.04,0,0,10.0
+324,2022.5.02,0,0,10.0
+325,2022.5.03,0,0,10.0
+326,2022.5.06,0,0,10.0
+327,2022.5.07,0,0,10.0
+328,2022.5.08,0,0,10.0
+329,2022.5.09,0,0,10.0
+330,2022.5.10,0,0,10.0
+331,2022.5.11,0,0,10.0
+332,2022.5.12,0,0,10.0
+333,2023.5.late,0,0,10.0
+334,2023.5.mid,0,0,10.0
+335,2022.5.05,0,0,10.0
+336,2025.5,0,0,10.0
+337,Taysom Hill,TE,NO,9.7602
+338,Will Fuller,WR,FA,9.6985
+339,Cade Otton,TE,TB,9.605
+340,Denzel Mims,WR,NYJ,9.4874
+341,James White,RB,NE,9.4522
+342,Rex Burkhead,RB,HOU,9.394
+343,Dyami Brown,WR,WAS,9.2966
+344,AJ Green,WR,ARI,9.282
+345,Justyn Ross,WR,KC,8.9249
+346,KJ Hamler,WR,DEN,9.0553
+347,Greg Dulcich,TE,DEN,8.9861
+348,CJ Uzomah,TE,NYJ,8.9533
+349,Josiah Deguara,TE,GB,8.88
+350,Darius Slayton,WR,NYG,8.8559
+351,James Washington,WR,DAL,8.7486
+352,Jamison Crowder,WR,BUF,8.5915
+353,Eno Benjamin,RB,ARI,8.508
+354,Tylan Wallace,WR,BAL,8.475
+355,Chris Evans,RB,CIN,8.4847
+356,Tyrod Taylor,QB,NYG,8.3838
+357,Marquez Callaway,WR,NO,8.2969
+358,Kyle Philips,WR,TEN,8.0086
+359,Tyler Johnson,WR,TB,7.9345
+360,Jeff Wilson Jr,RB,SF,7.8712
+361,Ty Johnson,RB,NYJ,7.8374
+362,Snoop Conner,RB,JAC,7.8125
+363,Khalil Shakir,WR,BUF,7.6577
+364,Boston Scott,RB,PHI,7.3973
+365,Romeo Doubs,WR,GB,7.3634
+366,Mo Alie-Cox,TE,IND,7.3432
+367,Zay Jones,WR,JAC,7.275
+368,Keaontay Ingram,RB,ARI,7.2402
+369,Chig Okonkwo,TE,TEN,7.2363
+370,James Proche,WR,BAL,7.2177
+371,Devin Duvernay,WR,BAL,7.2088
+372,Harrison Bryant,TE,CLE,7.1879
+373,Ricky Seals-Jones,TE,NYG,7.1779
+374,Calvin Austin,WR,PIT,7.1567
+375,Damien Williams,RB,ATL,7.146
+376,Jalen Guyton,WR,LAC,7.125
+377,Mike Davis,RB,BAL,7.0443
+378,Tyler Badie,RB,BAL,6.9637
+379,Braxton Berrios,WR,NYJ,6.9578
+380,Daniel Bellinger,TE,NYG,6.9265
+381,Samaje Perine,RB,CIN,6.8898
+382,Ke'Shawn Vaughn,RB,TB,6.8813
+383,Abram Smith,RB,NO,6.8377
+384,Jauan Jennings,WR,SF,6.8085
+385,Tyler Conklin,TE,NYJ,6.5995
+386,Kyren Williams,RB,LAR,6.6096
+387,Kyle Trask,QB,TB,6.5798
+388,Andy Dalton,QB,NO,6.5272
+389,Mike White,QB,FA,6.5035
+390,DeeJay Dallas,RB,SEA,6.404
+391,Nick Westbrook-Ikhine,WR,TEN,6.3808
+392,Danny Gray,WR,SF,6.2726
+393,Zach Pascal,WR,PHI,6.2052
+394,Preston Williams,WR,MIA,6.1031
+395,Anthony Schwartz,WR,CLE,6.0949
+396,Isaiah Likely,TE,BAL,6.097
+397,Nelson Agholor,WR,NE,6.0225
+398,Kellen Mond,QB,MIN,5.9804
+399,Jeremy Ruckert,TE,NYJ,5.9777
+400,Kylin Hill,RB,GB,5.9322
+401,Tony Jones,RB,NO,5.9502
+402,Cedrick Wilson,WR,MIA,5.8989
+403,Kene Nwangwu,RB,MIN,5.861
+404,Jaret Patterson,RB,WAS,5.6977
+405,OJ Howard,TE,BUF,5.666
+406,Darrynton Evans,RB,CHI,5.6285
+407,Carson Strong,QB,PHI,10.0
+408,Bailey Zappe,QB,NE,5.5569
+409,D'Eriq King,QB,FA,5.5419
+410,Quintez Cephus,WR,DET,5.5355
+411,Donald Parham,TE,LAC,5.4784
+412,Joshua Kelley,RB,LAC,5.4708
+413,Jermar Jefferson,RB,DET,5.456
+414,TY Hilton,WR,FA,5.4291
+415,Mike Boone,RB,DEN,5.4276
+416,Royce Freeman,RB,HOU,5.3994
+417,Giovani Bernard,RB,TB,5.3942
+418,Tre'Quan Smith,WR,NO,5.3937
+419,David Johnson,RB,FA,5.3938
+420,Mike Woods,WR,CLE,5.386
+421,Cam Newton,QB,FA,5.3714
